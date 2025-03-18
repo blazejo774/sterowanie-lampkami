@@ -16,21 +16,21 @@ Można rozszerzyć ilość używanych diod, poprzez dodanie więcej gałęzi po 
 
 ## 📝 Dokumentacja
 
-ℹ Kod → [**Dokumentacja**](https://gitlab.com/sist_2024-25/sterowanie-lampkami-choinkowymi/-/blob/main/%5BCODE%5D/readme.md)
+ℹ Kod → [**Dokumentacja**](https://github.com/blazejo774/sterowanie-lampkami/blob/d19fd1ce32649a07414ba25e057f50cffe792c03/%5BCODE%5D/main.c)
 
-ℹ Wykaz elementów → [**Dokumentacja**](https://gitlab.com/sist_2024-25/sterowanie-lampkami-choinkowymi/-/blob/main/%5BELECTRONICS%5D/readme.md)
+ℹ Wykaz elementów → [**Dokumentacja**](https://github.com/blazejo774/sterowanie-lampkami/blob/d19fd1ce32649a07414ba25e057f50cffe792c03/%5BELECTRONICS%5D/readme.md)
 
 
 ## ⭐ Software
 
-💾 Kod → [**main.c**](https://gitlab.com/sist_2024-25/sterowanie-lampkami-choinkowymi/-/blob/main/%5BCODE%5D/main.c)
+💾 Kod → [**main.c**](https://github.com/blazejo774/sterowanie-lampkami/blob/d19fd1ce32649a07414ba25e057f50cffe792c03/%5BCODE%5D/main.c)
 
 ## 💡 Hardware
 
-💾 Schemat Elektryczny → [**Schemat Elektryczny**](https://gitlab.com/sist_2024-25/sterowanie-lampkami-choinkowymi/-/blob/main/%5BELECTRONICS%5D/scheme.pdf)
+💾 Schemat Elektryczny → [**Schemat Elektryczny**](https://github.com/blazejo774/sterowanie-lampkami/blob/d19fd1ce32649a07414ba25e057f50cffe792c03/%5BELECTRONICS%5D/scheme.pdf)
 
-💾 Schemat Płytki PCB TOP → [**Płytka-TOP**](https://gitlab.com/sist_2024-25/sterowanie-lampkami-choinkowymi/-/blob/main/%5BBOARD%5D/Board_TOP.pdf)
+💾 Schemat Płytki PCB TOP → [**Płytka-TOP**](https://github.com/blazejo774/sterowanie-lampkami/blob/d19fd1ce32649a07414ba25e057f50cffe792c03/%5BBOARD%5D/Board_TOP.pdf)
 
-💾 Schemat Płytki PCB BOTTOM → [**Płytka-BOTTOM**](https://gitlab.com/sist_2024-25/sterowanie-lampkami-choinkowymi/-/blob/main/%5BBOARD%5D/Board_BOTTOM.pdf)
+💾 Schemat Płytki PCB BOTTOM → [**Płytka-BOTTOM**](https://github.com/blazejo774/sterowanie-lampkami/blob/d19fd1ce32649a07414ba25e057f50cffe792c03/%5BBOARD%5D/Board_BOTTOM.pdf)
 
-💾 Schemat Płytki PCB(IMAGE) → [**Płytka**](https://gitlab.com/sist_2024-25/sterowanie-lampkami-choinkowymi/-/blob/main/%5BBOARD%5D/BOARD.png)
+💾 Schemat Płytki PCB(IMAGE) → [**Płytka**](https://github.com/blazejo774/sterowanie-lampkami/blob/d19fd1ce32649a07414ba25e057f50cffe792c03/%5BBOARD%5D/BOARD.png)
