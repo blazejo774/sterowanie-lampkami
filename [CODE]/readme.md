@@ -1,7 +1,5 @@
 # ⭐ Kod - Dokumentacja
 
-*Kod napisany przez: Konrad Z.*
-
 ## 📚 Biblioteki
 
 ```c
